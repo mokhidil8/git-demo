@@ -1,7 +1,6 @@
 sword and spear
 wall of shields
 standing strong
-<<<<<<< HEAD
 on this their chosen battle fied
 
 form the lies
@@ -9,6 +8,4 @@ shield by shield
 side by side 
 we're marching into destiny
 -------------------------------------------
-=======
-on this their chosen battle field
->>>>>>> abbb8e22b01242f23fce153ccfb9fa06b01b87ed
+jahdgjahgdjasdhg
